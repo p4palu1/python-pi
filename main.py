@@ -1,5 +1,7 @@
 # binary converter
 
+
+# convert dec to bin
 def DEC_to_BIN_converter(decnum):
     binnum = ""
     while decnum > 0:
